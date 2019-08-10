@@ -46,7 +46,6 @@ config.js
 
 # Flood server
 server/db
-server/assets
 server/temp
 
 # Vim temp files
